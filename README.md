@@ -29,22 +29,22 @@
 <h3>Código:</h3>
             
             <select id=”filmes” name=”filmes”>
-    <optgroup label=”Terror”>
-    <option value=”1″>O Exorcista</option>
-    <option value=”2″>A Bruxa de Blair</option>
-    <option value=”3″>Atividade Paranormal</option>
-    </optgroup>
-    <optgroup label=”Comédia”>
-    <option value=”4″>Se Beber, Não Case</option>
-    <option value=”5″>Todo Mundo em Pânico</option>
-    <option value=”6″>Curtindo a Vida Adoidado</option>
-    </optgroup>
-    <optgroup label=”Drama”>
-    <option value=”7″>Crepúsculo</option>
-    <option value=”8″>Amistad</option>
-    <option value=”9″>Patch Adams</option>
-    </optgroup>
-    </select> 
+                <optgroup label=”Terror”>
+                <option value=”1″>O Exorcista</option>
+                <option value=”2″>A Bruxa de Blair</option>
+                <option value=”3″>Atividade Paranormal</option>
+                </optgroup>
+                <optgroup label=”Comédia”>
+                <option value=”4″>Se Beber, Não Case</option>
+                <option value=”5″>Todo Mundo em Pânico</option>
+                <option value=”6″>Curtindo a Vida Adoidado</option>
+                </optgroup>
+                <optgroup label=”Drama”>
+                <option value=”7″>Crepúsculo</option>
+                <option value=”8″>Amistad</option>
+                <option value=”9″>Patch Adams</option>
+                </optgroup>
+            </select> 
 
 <h2>Del</h2>
 <h4>O elemento HTML (ou Elemento HTML de Texto Excluído) representa uma parte do texto que foi excluída de um documento. Este elemento é (não necessariamente) renderizado pelos navegadores com uma linha entre o texto.</h4>
