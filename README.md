@@ -4,7 +4,8 @@
 <h4>O elemento HTML meter pode representar um valor escalar dentro de um intervalo conhecido ou um valor fracionário.</h4>
 <h3>Exemplo:</h3>
 <img src="https://www.codigofonte.com.br/wp-content/uploads/2014/09/meter.png" alt="">
-<!-- <h3>Aqueça o forno para <meter min="200" max="500" value="350">350 graus</meter>.</h3> -->
+            
+             <p>Aqueça o forno para <meter min="200" max="500" value="350">350 graus</meter>.</p>
 
 <h2>Progress</h2>
 <h4>Parecida com Meter, o elemento HTML progress é usado para visualizar o progresso de uma tarefa. Embora as especifidades de como é mostrado ficam a cargo do desenvolvedor, tipicamente, é mostrado como uma barra de progresso.</h4>
