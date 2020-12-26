@@ -10,12 +10,15 @@
 <h2>Progress</h2>
 <h4>Parecida com Meter, o elemento HTML progress é usado para visualizar o progresso de uma tarefa. Embora as especifidades de como é mostrado ficam a cargo do desenvolvedor, tipicamente, é mostrado como uma barra de progresso.</h4>
 <h3>Exemplo:</h3>
-<!-- <progress value="70" max="100">70 %</progress> -->
+                                             
+            <progress value="70" max="100">70 %</progress>
 <img src="https://developer.mozilla.org/@api/deki/files/6031/=progress-firefox.JPG" alt="">
 
 <h2>Small</h2>
 <h4>O elemento HTML representa comentários laterais e letras pequenas, como direitos autorais e texto legal, independentemente de sua apresentação estilizada.</h4>
 <h3>Exemplo:</h3>
+                        
+                        <small>Copyright © 2014</small>
 <small>Copyright © 2014</small>
 
 <h2>Optgroup</h2>
@@ -26,4 +29,6 @@
 <h2>Del</h2>
 <h4>O elemento HTML (ou Elemento HTML de Texto Excluído) representa uma parte do texto que foi excluída de um documento. Este elemento é (não necessariamente) renderizado pelos navegadores com uma linha entre o texto.</h4>
 <h3>Exemplo:</h3>
+
+            <p><del>This text has been deleted</del></p>
 <del>Exemplo Del</del>
